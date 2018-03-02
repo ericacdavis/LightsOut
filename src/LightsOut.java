@@ -16,7 +16,7 @@ import javax.swing.UIManager;
 public class LightsOut extends JFrame{
 	private static final int GRIDSIZE = 3;
 	LightButton lightboard [][]= new LightButton [GRIDSIZE][GRIDSIZE];
-	
+	//hahhaha
 	public LightsOut() {
 		initGUI();
 		

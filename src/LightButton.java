@@ -15,7 +15,7 @@ public LightButton(int r,int c) {
 	col = c;
 	Dimension size = new Dimension(SIZE,SIZE);
 	setPreferredSize(size);
-}
+}//hahha
 public int getRow() {
 	return row;
 }
